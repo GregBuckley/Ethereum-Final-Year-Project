@@ -1,0 +1,51 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}State of The Art}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cryptography}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Symmetric Encryption}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Assymetric Encryption}{3}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Certificate Authorities}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Background Of Certificate Authorities}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Issuing Of Certificates}{5}{subsection.2.2.2}
+\contentsline {subsubsection}{Domain Validated Certificates}{6}{section*.5}
+\contentsline {subsubsection}{Extended Validated Certificates}{6}{section*.6}
+\contentsline {subsection}{\numberline {2.2.3}Key Revocation}{6}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Key Recovery}{7}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Problems With Certificate Authorities}{7}{subsection.2.2.5}
+\contentsline {subsubsection}{Unassurace Of Certificate Quality}{7}{section*.7}
+\contentsline {subsubsection}{Problems Of Authentication}{8}{section*.8}
+\contentsline {subsubsection}{Certificate Validity Period}{8}{section*.9}
+\contentsline {subsubsection}{Single Point Of Failure}{8}{section*.10}
+\contentsline {section}{\numberline {2.3}Pretty Good Privacy And The Web Of Trust}{9}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Pretty Good Privacy}{9}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Confidentiality}{9}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}The Web Of Trust}{10}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Key signing parties}{11}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Establishing Trust}{12}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Trustworthiness of Introducers}{12}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Trustworthiness of Users}{13}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Problems With The Web Of Trust}{13}{subsection.2.3.8}
+\contentsline {subsubsection}{Key Loss}{14}{section*.11}
+\contentsline {subsubsection}{Rating Of A User’s Trustworthiness}{14}{section*.12}
+\contentsline {subsubsection}{Entry Barrier For New Users}{14}{section*.13}
+\contentsline {section}{\numberline {2.4}The Blockchain}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}The History Of The Blockchain}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Introduction Of Bitcoin}{15}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Ethereum}{15}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}History Of Ethereum}{15}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Smart Contracts}{15}{subsection.2.5.2}
+\contentsline {chapter}{\numberline {3}DESIGN}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Google Chrome Extension}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}Use of Smart Contracts}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}User interaction}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}Key Recoverability}{16}{section.3.4}
+\contentsline {chapter}{\numberline {4}Implementation}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Overview}{17}{section.4.1}
+\contentsline {section}{\numberline {4.2}Development tools}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Creation of identity}{17}{section.4.3}
+\contentsline {section}{\numberline {4.4}Storage of details}{17}{section.4.4}
+\contentsline {section}{\numberline {4.5}Front-End}{17}{section.4.5}
+\contentsline {section}{\numberline {4.6}Verification/Retrieval of user identity}{17}{section.4.6}
+\contentsline {section}{\numberline {4.7}Email Encryption}{17}{section.4.7}
+\contentsline {section}{\numberline {4.8}Email Decryption}{17}{section.4.8}
+\contentsline {chapter}{\numberline {5}Conclusion}{18}{chapter.5}
